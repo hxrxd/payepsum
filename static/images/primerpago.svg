@@ -3,7 +3,7 @@
 <!-- Generado por Microsoft Visio, SVG Export primerpago.svg Proceso Primer Pago -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
-		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st22">
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st21">
 	<v:documentProperties v:langID="3082" v:metric="true" v:viewMarkup="false">
 		<v:custProps>
 			<v:cp v:nameU="BpmnElementType" v:lbl="BPMN Element Type" v:prompt="" v:type="1"
@@ -56,10 +56,9 @@
 		.st16 {fill:#000000;font-family:Calibri;font-size:0.833336em}
 		.st17 {font-size:1em}
 		.st18 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st19 {fill:#000000;font-family:Calibri;font-size:0.666664em}
-		.st20 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
-		.st21 {marker-end:url(#mrkr4-861);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st22 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st19 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st20 {marker-end:url(#mrkr4-861);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st21 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -3516,8 +3515,8 @@
 			<g id="shape464-553" v:mID="464" v:groupContext="groupContent" v:layerMember="0">
 				<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
 				<v:textRect cx="35.4331" cy="566.929" width="70.87" height="0"/>
-				<text x="10.84" y="559.73" class="st19" v:langID="4106"><v:paragraph v:horizAlign="1"/><v:tabList/>Preparación de <tspan
-							x="8.98" dy="1.2em" class="st17">Expediente para </tspan><tspan x="16.78" dy="1.2em" class="st17">Contbilidad</tspan></text>			</g>
+				<text x="4.69" y="557.93" class="st16" v:langID="4106"><v:paragraph v:horizAlign="1"/><v:tabList/>Preparación de <tspan
+							x="2.37" dy="1.2em" class="st17">Expediente para </tspan><tspan x="12.11" dy="1.2em" class="st17">Contbilidad</tspan></text>			</g>
 		</g>
 		<g id="shape511-557" v:mID="511" v:groupContext="shape" v:layerMember="1" transform="translate(615.118,-72.7087)">
 			<title>Conector dinámico.511</title>
@@ -4746,7 +4745,7 @@
 				<v:userDefs>
 					<v:ud v:nameU="EventTypeMode" v:prompt="" v:val="VT0(5):26"/>
 				</v:userDefs>
-				<ellipse cx="14.1732" cy="581.102" rx="14.1732" ry="14.1732" class="st20"/>
+				<ellipse cx="14.1732" cy="581.102" rx="14.1732" ry="14.1732" class="st19"/>
 			</g>
 			<g id="shape590-782" v:mID="590" v:groupContext="shape" v:layerMember="0">
 				<title>Hoja.590</title>
@@ -5097,7 +5096,7 @@
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<path d="M0 595.77 L2.66 595.77 A2.65748 2.65748 0 0 1 5.31 598.43 L5.31 604.7 A4.25197 4.25197 -180 0 0 9.57 608.95
-						 L14.17 608.95" class="st21"/>
+						 L14.17 608.95" class="st20"/>
 		</g>
 	</g>
 </svg>

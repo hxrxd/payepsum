@@ -91,7 +91,7 @@
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="Diagrama de flujo" v:index="0"/>
 		<v:layer v:name="Conector" v:index="1"/>
-		<g id="group1-1" transform="translate(25.5118,-37.7717)" v:mID="1" v:groupContext="group">
+		<g id="group1-1" transform="translate(25.5118,-75.5433)" v:mID="1" v:groupContext="group">
 			<v:custProps>
 				<v:cp v:nameU="BpmnElementType" v:lbl="ElementType" v:prompt="" v:type="1"
 						v:format="Subproceso;Evento;Puerta de enlace;Diagrama de procesos;Grupo;Calle;Artefacto;Objeto de conexión"
@@ -257,7 +257,7 @@
 				<path d="M0 595.28 L448.87 595.28 L448.87 561.26 L0 561.26 L0 595.28 Z" class="st2"/>
 				<text x="211.16" y="581.87" class="st3" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>USAC</text>			</g>
 		</g>
-		<g id="shape4-7" v:mID="4" v:groupContext="shape" transform="translate(59.5276,-37.7717)">
+		<g id="shape4-7" v:mID="4" v:groupContext="shape" transform="translate(59.5276,-75.5433)">
 			<title>Lista de calles</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
@@ -287,7 +287,7 @@
 			<rect x="0" y="146.409" width="754.016" height="448.866" class="st4"/>
 			<rect x="0" y="146.409" width="754.016" height="448.866" class="st5"/>
 		</g>
-		<g id="group9-10" transform="translate(59.5276,-395.929)" v:mID="9" v:groupContext="group">
+		<g id="group9-10" transform="translate(59.5276,-433.701)" v:mID="9" v:groupContext="group">
 			<v:custProps>
 				<v:cp v:nameU="BpmnElementType" v:lbl="ElementType" v:prompt="" v:type="1"
 						v:format="Subproceso;Evento;Puerta de enlace;Diagrama de procesos;Grupo;Calle;Artefacto;Objeto de conexión"
@@ -416,7 +416,7 @@
 				<path d="M0 595.28 L90.71 595.28 L90.71 561.26 L0 561.26 L0 595.28 Z" class="st2"/>
 				<text x="14.49" y="581.87" class="st3" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>Contabilidad</text>			</g>
 		</g>
-		<g id="group13-18" transform="translate(59.5276,-304.228)" v:mID="13" v:groupContext="group">
+		<g id="group13-18" transform="translate(59.5276,-342)" v:mID="13" v:groupContext="group">
 			<v:custProps>
 				<v:cp v:nameU="BpmnElementType" v:lbl="ElementType" v:prompt="" v:type="1"
 						v:format="Subproceso;Evento;Puerta de enlace;Diagrama de procesos;Grupo;Calle;Artefacto;Objeto de conexión"
@@ -545,7 +545,7 @@
 				<path d="M0 595.28 L91.7 595.28 L91.7 561.26 L0 561.26 L0 595.28 Z" class="st2"/>
 				<text x="23.18" y="581.87" class="st3" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>Auditoría</text>			</g>
 		</g>
-		<g id="group17-26" transform="translate(59.5276,-128.48)" v:mID="17" v:groupContext="group">
+		<g id="group17-26" transform="translate(59.5276,-166.252)" v:mID="17" v:groupContext="group">
 			<v:custProps>
 				<v:cp v:nameU="BpmnElementType" v:lbl="ElementType" v:prompt="" v:type="1"
 						v:format="Subproceso;Evento;Puerta de enlace;Diagrama de procesos;Grupo;Calle;Artefacto;Objeto de conexión"
@@ -674,7 +674,7 @@
 				<path d="M0 595.28 L90.71 595.28 L90.71 561.26 L0 561.26 L0 595.28 Z" class="st2"/>
 				<text x="22.51" y="581.87" class="st3" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>Tesorería</text>			</g>
 		</g>
-		<g id="group21-34" transform="translate(59.5276,-37.7717)" v:mID="21" v:groupContext="group">
+		<g id="group21-34" transform="translate(59.5276,-75.5433)" v:mID="21" v:groupContext="group">
 			<v:custProps>
 				<v:cp v:nameU="BpmnElementType" v:lbl="ElementType" v:prompt="" v:type="1"
 						v:format="Subproceso;Evento;Puerta de enlace;Diagrama de procesos;Grupo;Calle;Artefacto;Objeto de conexión"
@@ -803,7 +803,7 @@
 				<path d="M0 595.28 L90.71 595.28 L90.71 561.26 L0 561.26 L0 595.28 Z" class="st2"/>
 				<text x="27.59" y="581.87" class="st3" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>EPSUM</text>			</g>
 		</g>
-		<g id="group190-42" transform="translate(59.5276,-219.189)" v:mID="190" v:groupContext="group">
+		<g id="group190-42" transform="translate(59.5276,-256.961)" v:mID="190" v:groupContext="group">
 			<v:custProps>
 				<v:cp v:nameU="BpmnElementType" v:lbl="ElementType" v:prompt="" v:type="1"
 						v:format="Subproceso;Evento;Puerta de enlace;Diagrama de procesos;Grupo;Calle;Artefacto;Objeto de conexión"
@@ -932,7 +932,7 @@
 				<path d="M0 595.28 L85.04 595.28 L85.04 561.26 L0 561.26 L0 595.28 Z" class="st2"/>
 				<text x="12.03" y="581.87" class="st3" v:langID="4106"><v:paragraph v:horizAlign="1"/><v:tabList/>Presupuesto</text>			</g>
 		</g>
-		<g id="shape25-50" v:mID="25" v:groupContext="shape" transform="translate(93.5433,-37.7717)">
+		<g id="shape25-50" v:mID="25" v:groupContext="shape" transform="translate(93.5433,-75.5433)">
 			<title>Lista de fases</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(List)"/>
@@ -960,7 +960,7 @@
 			</v:userDefs>
 			<rect x="0" y="146.409" width="720" height="448.866" class="st6"/>
 		</g>
-		<g id="group26-52" transform="translate(93.5433,-37.7717)" v:mID="26" v:groupContext="group">
+		<g id="group26-52" transform="translate(93.5433,-75.5433)" v:mID="26" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Container)"/>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Phase;DoNotContain)"/>
@@ -1017,7 +1017,7 @@
 				<path d="M0 595.28 L754.02 595.28 L0 595.28 Z" class="st2"/>
 			</g>
 		</g>
-		<g id="group29-57" transform="translate(110.551,-68.9528)" v:mID="29" v:groupContext="group" v:layerMember="0">
+		<g id="group29-57" transform="translate(110.551,-106.724)" v:mID="29" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="A" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -1112,7 +1112,7 @@
 			</g>
 			<g id="shape29-82" v:mID="29" v:groupContext="groupContent" v:layerMember="0"/>
 		</g>
-		<g id="shape42-84" v:mID="42" v:groupContext="shape" v:layerMember="1" transform="translate(138.898,-76.0394)">
+		<g id="shape42-84" v:mID="42" v:groupContext="shape" v:layerMember="1" transform="translate(138.898,-113.811)">
 			<title>Conector dinámico</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -1184,7 +1184,7 @@
 			</v:userDefs>
 			<path d="M0 588.19 L37.48 588.19" class="st11"/>
 		</g>
-		<g id="group43-90" transform="translate(181.417,-54.7795)" v:mID="43" v:groupContext="group" v:layerMember="0">
+		<g id="group43-90" transform="translate(181.417,-92.5512)" v:mID="43" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -1351,7 +1351,7 @@
 							x="4.79" dy="1.2em" class="st17">Formulario AB</tspan>-<tspan x="17.77" dy="1.2em" class="st17">USAC</tspan>-03<v:newlineChar/><tspan
 							x="7.06" dy="1.2em" class="st17">Y AB</tspan>-USAC-05</text>			</g>
 		</g>
-		<g id="group66-138" transform="translate(226.772,-145.488)" v:mID="66" v:groupContext="group" v:layerMember="0">
+		<g id="group66-138" transform="translate(226.772,-183.26)" v:mID="66" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -1550,7 +1550,7 @@
 				<text x="6.5" y="563.93" class="st16" v:langID="4106"><v:paragraph v:horizAlign="1"/><v:tabList/>Disponibilidad <tspan
 							x="4.98" dy="1.2em" class="st17">Presupuestaria</tspan></text>			</g>
 		</g>
-		<g id="group89-188" transform="translate(388.346,-54.7795)" v:mID="89" v:groupContext="group" v:layerMember="0">
+		<g id="group89-188" transform="translate(388.346,-92.5512)" v:mID="89" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -1717,7 +1717,7 @@
 				<text x="19.39" y="557.93" class="st16" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>Adjunta <tspan
 							x="13.03" dy="1.2em" class="st17">Papelería y </tspan><tspan x="11.11" dy="1.2em" class="st17">Formularios</tspan></text>			</g>
 		</g>
-		<g id="shape112-234" v:mID="112" v:groupContext="shape" v:layerMember="1" transform="translate(423.071,-111.472)">
+		<g id="shape112-234" v:mID="112" v:groupContext="shape" v:layerMember="1" transform="translate(423.071,-149.244)">
 			<title>Conector dinámico.137</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -1789,7 +1789,7 @@
 			</v:userDefs>
 			<path d="M7.09 595.28 L7.09 390.06" class="st11"/>
 		</g>
-		<g id="group113-239" transform="translate(401.102,-321.732)" v:mID="113" v:groupContext="group" v:layerMember="0">
+		<g id="group113-239" transform="translate(401.102,-359.504)" v:mID="113" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -1989,7 +1989,7 @@
 				<text x="7.54" y="557.93" class="st16" v:langID="2058"><v:paragraph v:horizAlign="1"/><v:tabList/>Revisión de la <tspan
 							x="17.16" dy="1.2em" class="st17">gestión y </tspan><tspan x="16.65" dy="1.2em" class="st17">provisión</tspan></text>			</g>
 		</g>
-		<g id="group136-290" transform="translate(589.308,-412.937)" v:mID="136" v:groupContext="group" v:layerMember="0">
+		<g id="group136-290" transform="translate(589.308,-450.709)" v:mID="136" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -2156,7 +2156,7 @@
 				<text x="11.08" y="557.93" class="st16" v:langID="4106"><v:paragraph v:horizAlign="1"/><v:tabList/>Recepción y <tspan
 							x="13.77" dy="1.2em" class="st17">Archivo de </tspan><tspan x="12.66" dy="1.2em" class="st17">Expediente</tspan></text>			</g>
 		</g>
-		<g id="shape159-336" v:mID="159" v:groupContext="shape" v:layerMember="1" transform="translate(471.969,-350.079)">
+		<g id="shape159-336" v:mID="159" v:groupContext="shape" v:layerMember="1" transform="translate(471.969,-387.85)">
 			<title>Conector dinámico.333</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -2229,7 +2229,7 @@
 			<path d="M0 595.28 L17.01 595.28 A4.25197 4.25197 -180 0 0 21.26 591.02 L21.26 508.32 A4.25197 4.25197 0 0 1 25.51 504.07
 						 L112.3 504.07" class="st11"/>
 		</g>
-		<g id="shape160-341" v:mID="160" v:groupContext="shape" v:layerMember="1" transform="translate(660.174,-434.197)">
+		<g id="shape160-341" v:mID="160" v:groupContext="shape" v:layerMember="1" transform="translate(660.174,-471.969)">
 			<title>Conector dinámico.393</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -2301,7 +2301,7 @@
 			</v:userDefs>
 			<path d="M0 588.19 L37.48 588.19" class="st11"/>
 		</g>
-		<g id="shape161-346" v:mID="161" v:groupContext="shape" v:layerMember="1" transform="translate(216.85,-111.472)">
+		<g id="shape161-346" v:mID="161" v:groupContext="shape" v:layerMember="1" transform="translate(216.85,-149.244)">
 			<title>Conector dinámico.410</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -2374,7 +2374,7 @@
 			<path d="M0 595.28 L0 578.27 A4.25197 4.25197 0 0 1 4.25 574.02 L41.1 574.02 A4.25197 4.25197 -180 0 0 45.35 569.76 L45.35
 						 566.3" class="st11"/>
 		</g>
-		<g id="group163-351" transform="translate(368.504,-240.945)" v:mID="163" v:groupContext="group" v:layerMember="0">
+		<g id="group163-351" transform="translate(368.504,-278.717)" v:mID="163" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="A" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -2494,7 +2494,7 @@
 			</g>
 			<g id="shape163-376" v:mID="163" v:groupContext="groupContent" v:layerMember="0"/>
 		</g>
-		<g id="shape176-378" v:mID="176" v:groupContext="shape" v:layerMember="1" transform="translate(378.425,-240.945)">
+		<g id="shape176-378" v:mID="176" v:groupContext="shape" v:layerMember="1" transform="translate(378.425,-278.717)">
 			<title>Conector dinámico.425</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -2566,7 +2566,7 @@
 			</v:userDefs>
 			<path d="M4.25 595.28 L4.25 750.26 A2.83465 2.83465 -180 0 0 7.09 753.09 L9.92 753.09" class="st19"/>
 		</g>
-		<g id="group177-384" transform="translate(702.694,-427.11)" v:mID="177" v:groupContext="group" v:layerMember="0">
+		<g id="group177-384" transform="translate(702.694,-464.882)" v:mID="177" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="A" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -2661,7 +2661,7 @@
 			</g>
 			<g id="shape177-409" v:mID="177" v:groupContext="groupContent" v:layerMember="0"/>
 		</g>
-		<g id="group194-411" transform="translate(276.378,-236.197)" v:mID="194" v:groupContext="group" v:layerMember="0">
+		<g id="group194-411" transform="translate(276.378,-273.969)" v:mID="194" v:groupContext="group" v:layerMember="0">
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
 						v:langID="3082" v:cal="0" v:val="VT4()"/>
@@ -2828,7 +2828,7 @@
 				<text x="18.53" y="563.93" class="st16" v:langID="4106"><v:paragraph v:horizAlign="1"/><v:tabList/>Certifica <tspan
 							x="6.5" dy="1.2em" class="st17">Disponibilidad</tspan></text>			</g>
 		</g>
-		<g id="shape217-456" v:mID="217" v:groupContext="shape" v:layerMember="1" transform="translate(262.205,-202.181)">
+		<g id="shape217-456" v:mID="217" v:groupContext="shape" v:layerMember="1" transform="translate(262.205,-239.953)">
 			<title>Conector dinámico.217</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
@@ -2900,7 +2900,7 @@
 			</v:userDefs>
 			<path d="M0 595.28 L0 537.17 A4.25197 4.25197 0 0 1 4.25 532.91 L9.13 532.91" class="st11"/>
 		</g>
-		<g id="shape218-461" v:mID="218" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-266.917)">
+		<g id="shape218-461" v:mID="218" v:groupContext="shape" v:layerMember="1" transform="translate(347.244,-304.689)">
 			<title>Conector dinámico.218</title>
 			<v:custProps>
 				<v:cp v:nameU="BpmnId" v:lbl="Id" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true" v:ask="false"
